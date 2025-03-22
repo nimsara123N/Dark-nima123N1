@@ -1,0 +1,32 @@
+body {
+    background-color: #f0f0f0; /* Light background for the website */
+    color: #333; /* Dark text color for contrast */
+    font-family: 'Arial', sans-serif; /* Clean font for readability */
+}
+
+h1 {
+    color: #ff0000; /* Red color for the title */
+    font-size: 3em; /* Large font size for emphasis */
+    text-align: center; /* Center the title */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Shadow effect for depth */
+}
+
+.container {
+    border: 5px solid #ffcc00; /* Light border around the website */
+    border-radius: 15px; /* Rounded corners for a modern look */
+    padding: 20px; /* Padding for spacing */
+    margin: 20px; /* Margin for spacing */
+    background-color: #ffffff; /* White background for the container */
+}
+
+h2 {
+    font-size: 2em; /* Subheading size */
+    color: #000; /* Black color for subheadings */
+    text-align: left; /* Align subheadings to the left */
+}
+
+p {
+    font-size: 1.2em; /* Paragraph font size */
+    line-height: 1.5; /* Line height for readability */
+    color: #555; /* Dark gray color for text */
+}
